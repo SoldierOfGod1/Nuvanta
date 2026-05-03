@@ -142,16 +142,60 @@ Why this order: depth before breadth. Allbirds shipped only wool runners for
 years before expanding into clothing. Build category authority first, then
 extend brand permission.
 
-## Open Questions
+## Resolved Questions (founder answered 2026-05-03)
 
-1. Has the founder spoken to anyone who currently owns a Mini UPS or power bank?
-2. What is the current SA-specific Meta CPA for an unbranded R499 product? (founder must verify)
-3. What is the actual Dropstore lead time on Power Bank 20,000mAh, including
-   stockouts? (founder must call Dropstore)
-4. Who hosts customer support and at what cost when WhatsApp scales past 5
-   tickets/day?
-5. Is "Nuvanta" a defensible brand or a short-term URL? (trademark check, .co.za
-   availability check)
+1. **Has the founder spoken to anyone who currently owns a power bank?**
+   Answer: **NOT YET.** → Phase 0 gate UNMET. No spend until 5 interviews
+   are logged. The Assignment below is now blocking, not optional.
+
+2. **What is the SA-specific Meta CPA for an unbranded R499 product?**
+   Answer: **R150 – R450+ for purchase.** → See Unit Economics section below.
+   This range makes the wedge a high-variance bet. The hard kill rule is now
+   a survival rule, not a best-practice.
+
+3. **What is the actual Dropstore lead time on Power Bank 20,000mAh?**
+   Answer: **Supplier processing 0-2 days.** End-to-end with courier:
+   ~1-5 days. Better than initial assumption. → Update homepage copy from
+   "Fast Delivery" to "Hand-picked, ships within 2 days."
+
+4. **Who hosts customer support and at what cost?**
+   Answer: **Founder, for now.** → Track support hours as a real cost.
+   Outsource WhatsApp once orders cross 30/day (~R8-15k/mo in SA).
+
+5. **Is "Nuvanta" a defensible brand?**
+   Answer: **Founder asserts yes — UNVERIFIED.** Five checks must complete
+   before brand spend:
+   - CIPC trademark search (https://www.cipc.co.za) in classes 25, 28, 18, 35
+   - Domain availability: nuvanta.co.za, nuvanta.com
+   - Instagram handle: @nuvanta
+   - TikTok handle: @nuvanta
+   - Google top-10 results for "nuvanta" — conflicts?
+
+## Unit Economics (Power Bank 20,000mAh wedge)
+
+Sell: R499. Cost: R250. Gross margin: R249/unit.
+Less Shopify + payment fees (~3%): -R15.
+Less return reserve (5% × R250): -R12.
+Working contribution before CPA: ~R222/unit.
+
+| CPA scenario | Net per unit | R3k budget = N sales | Total contribution |
+|---|---|---|---|
+| Best (R150)  | +R72  | 20 | **+R1,440** |
+| Mid  (R250)  | -R28  | 12 | **-R336**   |
+| Worst (R450) | -R228 | 6  | **-R1,368** |
+
+Half the realistic CPA range loses money per unit. The wedge is a real bet
+with a real kill rule.
+
+### Kill rule (hard, no exceptions)
+
+- **Target:** CPA <= R150 across first 100 clicks.
+- **Abort:** if rolling CPA > R250 by 48 hours OR first 100 clicks return
+  zero conversions.
+- **Action on abort:** kill creative + product, not the entire test. Try
+  one alternate creative angle. If second creative also fails, the product
+  is the wrong wedge — pivot to higher-gross-margin SKU (Mini UPS R349
+  gross, or test a curated bundle to lift AOV).
 
 ## Success Criteria
 

@@ -1,0 +1,8 @@
+.claude/logs/
+.claude/settings.local.json
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.local
+*.log

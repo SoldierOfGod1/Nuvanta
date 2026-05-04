@@ -15,10 +15,13 @@ discovery in progress.
 
 | File | Purpose |
 |------|---------|
-| `docs/01-office-hours-design.md` | Diagnostic, premises, alternatives, the assignment (revised for Vision D) |
+| `docs/01-office-hours-design.md` | Diagnostic, premises, alternatives, resolved Q&A, unit economics, kill rule |
 | `docs/02-ceo-review.md` | Vision A/B/C/D analysis, Vision D decision recorded |
 | `docs/03-review.md` | Plan review (3 critical, 5 high, 5 medium, 3 low) — vision-agnostic |
 | `docs/04-qa-plan.md` | Launch acceptance criteria + test scenarios + go/no-go |
+| `docs/05-brand-voice.md` | Brand promise, voice principles, palette, typography, tone examples |
+| `docs/06-product-page.md` | Power Bank product page copy (full conversion surface) |
+| `docs/07-ad-creative-briefs.md` | 3 Meta + 3 TikTok creatives, test plan, kill rule |
 
 ## The plan in one paragraph
 

@@ -25,6 +25,9 @@ discovery in progress.
 | `docs/08-legal-templates.md` | Returns policy, T&Cs, POPIA privacy, cookie banner — SA-compliant templates |
 | `docs/09-tracking-setup.md` | Meta Pixel + CAPI, TikTok Pixel, GA4, UTM scheme, pre-launch verification |
 | `docs/10-launch-runbook.md` | 7-day day-by-day operational runbook with KPI gates and decision tree |
+| `docs/11-shopify-setup.md` | End-to-end Shopify config: theme, apps, settings, payments, shipping, domain |
+| `docs/12-email-sequences.md` | Transactional + lifecycle emails (cart abandon, day-7, day-30, day-90) |
+| `docs/13-support-playbook.md` | WhatsApp + email support: quick replies, decision rules, escalation, capacity |
 
 ## The plan in one paragraph
 

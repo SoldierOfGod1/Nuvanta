@@ -28,6 +28,9 @@ discovery in progress.
 | `docs/11-shopify-setup.md` | End-to-end Shopify config: theme, apps, settings, payments, shipping, domain |
 | `docs/12-email-sequences.md` | Transactional + lifecycle emails (cart abandon, day-7, day-30, day-90) |
 | `docs/13-support-playbook.md` | WhatsApp + email support: quick replies, decision rules, escalation, capacity |
+| `docs/14-phase-2-plan.md` | Smart Electronics depth roadmap: 5 SKUs, bundles, creative cadence, 90-day targets |
+| `docs/15-risk-register.md` | Week-1, month-3, month-12 risks with probability, mitigation, response |
+| `docs/16-founder-budget.md` | Honest cash + time + energy budget, 90-day decision gate |
 
 ## The plan in one paragraph
 

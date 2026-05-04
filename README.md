@@ -22,6 +22,9 @@ discovery in progress.
 | `docs/05-brand-voice.md` | Brand promise, voice principles, palette, typography, tone examples |
 | `docs/06-product-page.md` | Power Bank product page copy (full conversion surface) |
 | `docs/07-ad-creative-briefs.md` | 3 Meta + 3 TikTok creatives, test plan, kill rule |
+| `docs/08-legal-templates.md` | Returns policy, T&Cs, POPIA privacy, cookie banner — SA-compliant templates |
+| `docs/09-tracking-setup.md` | Meta Pixel + CAPI, TikTok Pixel, GA4, UTM scheme, pre-launch verification |
+| `docs/10-launch-runbook.md` | 7-day day-by-day operational runbook with KPI gates and decision tree |
 
 ## The plan in one paragraph
 

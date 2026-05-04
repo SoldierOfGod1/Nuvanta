@@ -1,0 +1,7 @@
+# Add product photos here.
+# Required (per /lib/products.ts):
+#   /public/products/daily-power-bank-hero.jpg
+
+# Optional but recommended:
+#   /public/favicon.ico
+#   /public/og-image.jpg     1200x630, used for link previews

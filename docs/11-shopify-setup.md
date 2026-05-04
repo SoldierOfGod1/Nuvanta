@@ -1,5 +1,10 @@
 # Shopify Setup Checklist — Nuvanta
 
+> **SUPERSEDED 2026-05-04.** Architecture pivoted to self-hosted Next.js
+> + PayFast + Vercel. See `/docs/17-stack-architecture.md` for the active
+> build path. This file kept for reference if Shopify ever becomes the
+> right answer at Phase 3+ scale.
+
 Generated 2026-05-04. End-to-end store configuration for Phase 1 launch.
 
 Goal: a clean, fast, Vision D-aligned store live in 4-6 hours of focused

@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Web fonts — Cormorant Garamond + Inter, via Google Fonts (free).
+   Swap to self-hosted licensed fonts when brand mood-board is locked. */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@400;500;600&display=swap');
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-bg text-ink font-sans;
+    font-feature-settings: 'cv11', 'ss01';
+  }
+
+  h1, h2, h3 {
+    @apply font-display font-medium tracking-tight;
+  }
+
+  h1 { @apply text-4xl sm:text-5xl md:text-6xl leading-[1.05]; }
+  h2 { @apply text-3xl sm:text-4xl leading-tight; }
+  h3 { @apply text-xl sm:text-2xl leading-snug; }
+
+  p { @apply leading-relaxed; }
+
+  a { @apply transition-colors; }
+
+  ::selection {
+    @apply bg-accent text-white;
+  }
+}
+
+@layer components {
+  .container-prose {
+    @apply max-w-prose mx-auto px-6;
+  }
+
+  .container-page {
+    @apply max-w-5xl mx-auto px-6;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2
+           bg-accent text-white font-medium
+           px-7 py-3.5 rounded-sm
+           hover:bg-ink transition-colors
+           disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2
+           text-ink font-medium
+           px-5 py-2.5 rounded-sm
+           hover:bg-line transition-colors;
+  }
+
+  .link {
+    @apply text-ink underline underline-offset-4 decoration-line
+           hover:decoration-accent;
+  }
+}
